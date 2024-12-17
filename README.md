@@ -10,9 +10,9 @@
   * Full subtractor
 --------------------------------------------
 3] Flip-Flop
-  * D flip-flop
-     a) D flip-flop with Asynchronous and (active high/active low) reset
-     b) D flip-flop with Synchronous reset
+  * D flip-flop ////
+     a) D flip-flop with Asynchronous and (active high/active low) reset //
+     b) D flip-flop with Synchronous reset ////
   * SR flip-flop
   * T flip-flop
   * JK flip-flop
